@@ -64,7 +64,7 @@ body{
     transition: box-shadow 0.3s;
 }
 
-#card-1-img,#card-1-img{
+#card-1-img,#card-2-img{
      width: 160px;
      height: 160px;
      border-top-left-radius: 5px;
